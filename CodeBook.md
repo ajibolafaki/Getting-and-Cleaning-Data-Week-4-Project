@@ -92,12 +92,12 @@ The following represent the Identifiers:
 All other variables represent measurements(mean and standard deviation)
 
 The following represent the Activity labels:
-1 - Walking
-2 - Walking_Upstairs
-3 - Walking_Downstairs
-4 - Sitting
-5 - Standing 
-6 - Laying
+1 ----- Walking
+2 ----- Walking_Upstairs
+3 ----- Walking_Downstairs
+4 ----- Sitting
+5 ----- Standing 
+6 ----- Laying
 
 
 
